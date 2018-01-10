@@ -17,12 +17,12 @@ Command Prompt, Python Interpreter
 Once the program is executed, the text files "alaska_quakes" and "coastal_quakes" will be populated.
 
 Sample data of Alaska Earthquakes
-![Screenshot](textAlaska1.png)
-![Screenshot](textAlaska2.png)
+![Screenshot](textAlaska1.PNG)
+![Screenshot](textAlaska2.PNG)
 
 Sample data of Coastal Earthquakes
-![Screenshot](textCoastal1.png)
-![Screenshot](textCoasta2.png)
+![Screenshot](textCoastal1.PNG)
+![Screenshot](textCoastal2.PNG)
 ## Authors
 
 * **Steven Duong**
